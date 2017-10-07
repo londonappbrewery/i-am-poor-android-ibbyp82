@@ -26,7 +26,6 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/textView"
         android:layout_alignParentRight="true"
-        android:layout_alignRight="@+id/textView"
         android:layout_centerVertical="false"
         android:layout_marginEnd="54dp"
         android:layout_marginRight="54dp"
